@@ -3,7 +3,7 @@ Advanced Modelling in Finance using Excel and VBA
 By  **Mary Jackson, Mike Staunton**
 
 
-The implementation of all the models and methods occurs twice: once in the spread- sheets and once in the VBA functions
+The implementation of all the models and methods occurs twice: once in the spread-sheets and once in the VBA functions
 
 #Topic covered
 ##4 parts
@@ -40,9 +40,28 @@ The implementation of all the models and methods occurs twice: once in the sprea
 14. models for interest rates
 - Vasicek and Cox
 -  Ingersoll and Ross
-15. short rate can be modelled in a binomial tree
+15. short rate modelled in a binomial tree
 16. final Appendix
 	- ARIMA modelling
 	- splines
 	- eigenvalues
 	
+#1.7 RELATED EXCEL WORKBOOKS
+- Part I
+	- AMFEXCEL
+	- VBSUB
+	- VBFNS
+- Part II
+	- EQUITY1
+	- EQUITY2
+	- EQUITY3
+- Part III
+	- OPTION1
+	- OPTION2
+	- OPTION3
+	- OPTION4
+- Part IV
+	- BOND1
+	- BOND2
+- Appendix
+	- OTHERFNS
